@@ -1,0 +1,32 @@
+{
+  "name": "react-server-request",
+  "version": "1.0.0",
+  "description": "A React Component for GET, POST, DELETE and PUT Requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqpdev/react-http-request.git"
+  },
+  "keywords": [
+    "React",
+    "HTTP",
+    "Request",
+    "React",
+    "POST",
+    "React",
+    "GET",
+    "React",
+    "PUT",
+    "React",
+    "DELETE"
+  ],
+  "author": "Andres Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aqpdev/react-http-request/issues"
+  },
+  "homepage": "https://github.com/aqpdev/react-http-request#readme"
+}
