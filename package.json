@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aqpdev/react-http-request.git"
+    "url": "git+https://github.com/aqpdev/http-request-lib.git"
   },
   "keywords": [
     "React",
@@ -23,7 +23,7 @@
   "author": "AQPDev <fullcoderz@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aqpdev/react-http-request/issues"
+    "url": "https://github.com/aqpdev/http-request-lib/issues"
   },
-  "homepage": "https://github.com/aqpdev/react-http-request#readme"
+  "homepage": "https://github.com/aqpdev/http-request-lib#readme"
 }
