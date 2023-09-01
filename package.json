@@ -1,8 +1,9 @@
 {
-  "name": "react-server-request",
+  "name": "http-request-lib",
   "version": "1.0.0",
-  "description": "A React Component for GET, POST, DELETE and PUT Requests",
+  "description": "A library for GET, POST, DELETE and PUT Requests",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,16 +15,12 @@
     "React",
     "HTTP",
     "Request",
-    "React",
     "POST",
-    "React",
     "GET",
-    "React",
     "PUT",
-    "React",
     "DELETE"
   ],
-  "author": "Andres Mendoza",
+  "author": "AQPDev <fullcoderz@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aqpdev/react-http-request/issues"
