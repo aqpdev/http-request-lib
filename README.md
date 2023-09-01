@@ -11,7 +11,7 @@ npm i http-request-lib
 
 ### Import library:
 ```javascript
-import {http_request} from "./index.js";
+import {http_request} from "http-request-lib";
 ```
 
 ### Basic example
