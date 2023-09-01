@@ -7,6 +7,7 @@ const http_request = {
             domain += '/';
         }
         this.__domain = domain;
+        return this;
     },
     uri(uri){
         if(uri.substring(0, 1) === '/'){
