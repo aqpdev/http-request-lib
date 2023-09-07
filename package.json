@@ -1,6 +1,6 @@
 {
-  "name": "http-request-lib",
-  "version": "1.0.1",
+  "name": "@aqpdev/http-request-lib",
+  "version": "1.0.0",
   "description": "A library for GET, POST, DELETE and PUT Requests",
   "main": "index.js",
   "type": "module",

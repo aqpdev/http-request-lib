@@ -4,14 +4,14 @@ A library for GET, POST, DELETE and PUT Requests using Fetch API and simplify th
 ## Installation
 
 ```bash
-npm i http-request-lib
+npm i @aqpdev/http-request-lib
 ```
 
 ## Usage
 
 ### Import library:
 ```javascript
-import {http_request} from "http-request-lib";
+import {http_request} from "@aqpdev/http-request-lib";
 ```
 
 ### Basic example
